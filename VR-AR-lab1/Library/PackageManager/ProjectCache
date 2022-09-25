@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637997061397282973
-    m_Hash: 2891438559
+      ticks: 637997113188684696
+    m_Hash: 140329476
   m_LockFileStatus:
     m_FilePath: D:/Projects/VR-AR-lab1/VR-AR-lab1/VR-AR-lab1/VR-AR-lab1/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637997061999286381
-    m_Hash: 3956890126
+      ticks: 637997113188378988
+    m_Hash: 3129985872
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
