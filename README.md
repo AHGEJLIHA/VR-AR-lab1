@@ -221,6 +221,10 @@ public class GenerateCountObjects : MonoBehaviour
 
 ![image](https://user-images.githubusercontent.com/79083395/192148821-dcab1808-fc15-4872-8754-f448078d6520.png)
 
+9. Готовая реализация:
+
+![Unity_MlRjc3oqfP](https://user-images.githubusercontent.com/79083395/192149166-933a4df1-6a09-4227-8fc4-67152e6c3b77.gif)
+
 ## Выводы
 В данной лабороторной работе мы изучили основы unity - работа с примитивными объектами, управление физикой объектов, написание скриптов.
 
